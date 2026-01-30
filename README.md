@@ -1,1 +1,1 @@
-https://github.com/sexyriskvimer771/ono-tebe-nado
+https://github.com/PixelPotato21/ono-tebe-nado-fd.git
