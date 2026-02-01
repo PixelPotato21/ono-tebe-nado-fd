@@ -48,12 +48,6 @@
     text-underline-offset: 4px;
     flex-shrink: 0;
 }
-.nav_item-active {
-    list-style-type: none;
-}
-.nav_item-active .menu-link {
-    text-decoration: none;
-}
 .nav_list li {
     flex: 0 0 auto;
 }
@@ -134,7 +128,7 @@
     text-transform: uppercase;
     line-height: 115px;
 }
-.hero-action{
+.hero-action {
     display: flex;
 }
 .hero_text {
